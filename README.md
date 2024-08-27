@@ -184,10 +184,6 @@ Resources 📚
 These are the resources I used while expermienting with all above codes: 
 <br>
 - <a href="https://www.youtube.com/watch?v=4RAvJt3fWoI&list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0&index=10"> Words fall short of praising this person, 💙</a>
-- <a href="https://platform.openai.com/docs/overview"> OpenAI Documentation</a>
-- <a href="https://community.openai.com/u/closure.onward.07/activity">Good Place to Find Answers</a>
-- <a href="https://github.com/openai/openai-cookbook/blob/main/examples/How_to_format_inputs_to_ChatGPT_models.ipynb"> All Recipes Inside</a>
-- <a href="https://github.com/eli64s/readme-ai?tab=readme-ov-file#badges">Make Readme on a fly</a>
 <br>
 <p align="right">
   <a href="#-overview"><b>Return</b></a>
